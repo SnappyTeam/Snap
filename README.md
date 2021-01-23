@@ -1,7 +1,7 @@
 # Snap
 > An easy to use tool to display currently playing song from a media player into a text-file.
 
-[!]("Display Program.png")
+[!Program Design]("Display Program.png")
 
 # Supported Media Players
 Currently Snap supports a good starting amount of media players. These include the following media players:
