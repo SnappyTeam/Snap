@@ -38,4 +38,4 @@ Will Snap ever be discontinued?
 # Support And Updates
 Snap will continue to be updated and supported until we eventually feel as if the program is complete. This program will continue to be supported and won't be discontinued until necessary. Snap just started and will continue to start thriving as a tool that can be used for OBS Studio and Streaming.
 
-> Current Version: 0.0.0.1
+> Current Version: 0.0.0.2
