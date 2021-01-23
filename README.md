@@ -10,6 +10,8 @@ Currently Snap supports a good starting amount of media players. These include t
 - FooBar2000
 - VLC Media Player
 - iTunes
+- MusicBee (NEW)
+- Clementine (NEW)
 
 # Installation
 Download the latest release of Snap from this repository. Once downloaded follow the steps below:
