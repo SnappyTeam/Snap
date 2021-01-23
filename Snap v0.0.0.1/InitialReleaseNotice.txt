@@ -1,0 +1,1 @@
+This is the initial release of Snap. This version features a few media players. Please use the updated / latest updated source for support for more media players.
