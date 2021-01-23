@@ -31,6 +31,8 @@ Will Snap support Spotify in the future?
 Will Snap ever be discontinued?
 > We plan to continue developing Snap for as long as possible. In the future we may have to discontinue the project due to our team consisting of high-school students, we have work to finish and more stuff to do. Plus in the future if we get jobs we might not have as much time to work on Snap.
 
+> We should also state that the team is not born in January 1st, 1999. This is just a set age for our development team profile to keep things simple.
+
 # Support And Updates
 Snap will continue to be updated and supported until we eventually feel as if the program is complete. This program will continue to be supported and won't be discontinued until necessary. Snap just started and will continue to start thriving as a tool that can be used for OBS Studio and Streaming.
 
