@@ -1,0 +1,1 @@
+Added more media players to the already supported list. Spotify is being looked into but don't hold us to it as Spotify is quite the weird application and doesn't work with window text grabbing functions.
