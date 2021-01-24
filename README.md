@@ -10,8 +10,10 @@ Currently Snap supports a good starting amount of media players. These include t
 - FooBar2000
 - VLC Media Player
 - iTunes
-- MusicBee (NEW)
-- Clementine (NEW)
+- MusicBee
+- Clementine
+- MPC-HC (NEW)
+- PotPlayer (NEW)
 
 # Installation
 Download the latest release of Snap from this repository. Once downloaded follow the steps below:
@@ -40,4 +42,4 @@ Will Snap ever be discontinued?
 # Support And Updates
 Snap will continue to be updated and supported until we eventually feel as if the program is complete. This program will continue to be supported and won't be discontinued until necessary. Snap just started and will continue to start thriving as a tool that can be used for OBS Studio and Streaming.
 
-> Current Version: 0.0.0.2
+> Current Version: 0.0.0.3
