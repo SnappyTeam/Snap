@@ -1,0 +1,5 @@
+Added support for Spotify after finally finding an answer to my problem. Thanks everyone on Stack Overflow
+who asked questions and got answers.
+
+All-in-all just grab the window title using process and filter out stuff like "Spotify Free" or "Advertisement" and
+you will be good to go.
