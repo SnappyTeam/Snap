@@ -36,7 +36,7 @@ How will Snap be updated? Doesn't it not have an auto-updater?
 > Snap will have to be manually updated but since updates shouldn't be coming out frequently do to the way the program was created, you should be fine with the latest version you have downloaded.
 
 Will Snap support Spotify in the future?
-> We always planned to add support for Spotify but it seems a little harder to-do without an API. We like to keep Snap as simple as possible and already it's getting bulky due to iTunes. We might in the future but for now we are sticking with currently supported players.
+> Currently as of version 0.0.0.5, we have added test support for Spotify. You can now freely select Spotify in the program.
 
 Will Snap ever be discontinued?
 > We plan to continue developing Snap for as long as possible. In the future we may have to discontinue the project due to our team consisting of high-school students, we have work to finish and more stuff to do. Plus in the future if we get jobs we might not have as much time to work on Snap.
