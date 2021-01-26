@@ -14,7 +14,10 @@ Currently Snap supports a good starting amount of media players. These include t
 - Clementine
 - MPC-HC
 - PotPlayer
-- Spotify (NEW)
+- Spotify
+- AIMP (NEW)
+- MediaMonkey (NEW)
+- Quod Libet (NEW)
 
 # Installation
 Download the latest release of Snap from this repository. Once downloaded follow the steps below:
@@ -43,4 +46,4 @@ Will Snap ever be discontinued?
 # Support And Updates
 Snap will continue to be updated and supported until we eventually feel as if the program is complete. This program will continue to be supported and won't be discontinued until necessary. Snap just started and will continue to start thriving as a tool that can be used for OBS Studio and streaming. Thank you for using Snap.
 
-> Current Version: 0.0.0.4
+> Current Version: 0.0.0.5
